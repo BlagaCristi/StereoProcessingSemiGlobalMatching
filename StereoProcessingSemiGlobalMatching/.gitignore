@@ -1,0 +1,9 @@
+.vs
+OpenCV
+OpenCVApplication.sln
+OpenCVApplication.vcxproj
+OpenCVApplication.vcxproj.user
+clean.bat
+x64
+.DS_Store
+Images/.DS_Store
